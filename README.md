@@ -1,11 +1,8 @@
-[![npm-version](https://img.shields.io/npm/v/@cyntler/react-doc-viewer.svg)](https://www.npmjs.com/package/@cyntler/react-doc-viewer)
-[![npm-download](https://img.shields.io/npm/dt/@cyntler/react-doc-viewer.svg)](https://www.npmjs.com/package/@cyntler/react-doc-viewer)
-
 # @boxwood-connor/react-doc-viewer
 
 File viewer for React.
 
-> This is a fork of https://github.com/Alcumus/react-doc-viewer (inactivity for a long time)
+> This is a fork of https://github.com/cyntler/react-doc-viewer (would re render on window resize and I didn't need that)
 
 ## Supported file types
 
@@ -31,18 +28,12 @@ File viewer for React.
 | xlsx      | application/vnd.openxmlformats-officedocument.spreadsheetml.sheet         |
 | mp4       | video/mp4                                                                 |
 
-## Storybook Demo
-
-https://cyntler.github.io/react-doc-viewer
-
 ## Installation
 
 Use one of the package managers for Node.js.
 
 ```bash
- npm i @cyntler/react-doc-viewer
- # or
- yarn add @cyntler/react-doc-viewer
+ npm i @boxwood-connor/react-doc-viewer
 ```
 
 ## Usage
