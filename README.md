@@ -1,7 +1,7 @@
 [![npm-version](https://img.shields.io/npm/v/@cyntler/react-doc-viewer.svg)](https://www.npmjs.com/package/@cyntler/react-doc-viewer)
 [![npm-download](https://img.shields.io/npm/dt/@cyntler/react-doc-viewer.svg)](https://www.npmjs.com/package/@cyntler/react-doc-viewer)
 
-# @cyntler/react-doc-viewer
+# @boxwood-connor/react-doc-viewer
 
 File viewer for React.
 
